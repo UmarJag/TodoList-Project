@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 5px 5px;
+}
+
+button{
+    background-color: #34216b;
+    color: white;
+    border: none;
+    width: 14vh;
+    height: 30px;
+}
+
+.container{
+    margin: 100px auto;
+    margin-left: 20px;
+}
+
+.result{
+    margin: 10px;
+    line-height: 30px;
+}
